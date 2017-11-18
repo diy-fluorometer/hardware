@@ -7,7 +7,7 @@ date: 2017-11-18
 In principle, we just want to build a light-proof case. 
 The "L" form however would be nice to generate a 90° angle:
 
-<img src="./images/IMG_0834.jpg" />
+<img src="./images/IMG_0834.JOG" data-rotate="90" />
 
 We designed the basics of the case on 
 <a href="http://www.makercase.com">
