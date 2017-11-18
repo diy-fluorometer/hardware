@@ -6,10 +6,8 @@ title: DIY Fluorometer #SHDB17
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-<div class="post">
-  {{ post.content }}
-</div>
-
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                {{ post.content }}
+            </li>
 	  {% endfor %}
 	</ul>
