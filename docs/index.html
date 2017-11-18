@@ -1,15 +1,16 @@
 ---
 layout: default
-title: DIY Fluorometer #SHDB17
+title: "DIY Fluorometer #SHDB17"
 ---
 	<h1>{{ page.title }}</h1>
 
 	<ul class="posts">
 
 	  {% for post in site.posts %}
+            <li>
             <h2>{{ post.title }}</h2>
-            <b>{{ post.date | date_to_string }}</b>
-            {{ post.content }}
+            <!-- {{ post.date | date_to_string }} -->
+            <p>{{ post.content }}</p>
             </li>
 	  {% endfor %}
 
