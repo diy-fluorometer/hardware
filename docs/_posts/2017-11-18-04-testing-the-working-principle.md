@@ -6,10 +6,11 @@ date: 2017-11-18
 
 Well, it's easy, isn't it?
 
-<img src="./images/IMG_0831.JPG" />
+<img src="./images/IMG_0831.JPG" data-rotate="90" />
 
 We have a dye which becomes fluorescent when it is bound to DNA.
 
+----
 
 This is our basic physical setup:
 
@@ -25,6 +26,8 @@ We used textmarker to simulate DNA dye. In the picture above you see how the
 textmarker solution starts to fluoresce, when the LED is shining on it. 
 
 **Awesome!**
+
+----
 
 Also, Lisa gifted some cool (and cheap) filters. 
 
