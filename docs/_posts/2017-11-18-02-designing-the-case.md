@@ -4,15 +4,16 @@ title: "Designing the case of our DIY fluorometer"
 date: 2017-11-18
 ---
 
-In principle, we want to build a light-proof case. 
-The "L" form would be nice to generate a 90° angle.
+In principle, we just want to build a light-proof case. 
+The "L" form however would be nice to generate a 90° angle:
 
-We designed the case on 
+<img src="./images/IMG_0834.jpg" />
+
+We designed the basics of the case on 
 <a href="http://www.makercase.com">
-www.makercase.com
-</a>.
+www.makercase.com</a>.
 
-You can find the preliminary but continuously updated files on 
+The design is getting ready here in real-time:
 <a href="https://github.com/rgiessmann/DIY_fluorometer/design_case_box">
 github.com/rgiessmann/DIY_fluorometer/design_case_box
 </a>.
