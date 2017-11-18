@@ -1,0 +1,10 @@
+# Some playing around with a dilution series of fluorescent marker dye
+# sample,readout,comment
+0,14,
+blank,18,
+1:1,37,
+1:10,41,
+1:100,25,
+1:1000,18,
+1:500,20,
+1:250,22,
